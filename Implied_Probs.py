@@ -1,4 +1,4 @@
-# Implied Probability Calculator
+# No-Vig Implied Probability Calculator
 
 def implied_probability(first_odds, second_odds):
     first_odds = int(first_odds)
